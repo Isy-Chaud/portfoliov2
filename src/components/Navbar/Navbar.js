@@ -84,7 +84,10 @@ const Navbar = () =>{
                         </ul>
                     </div>
                 </div>
-                // end of module group
+                {
+                  // end of module group
+                  
+                }
             </div>
         </nav>
     </div>

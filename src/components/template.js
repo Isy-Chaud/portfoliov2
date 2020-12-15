@@ -23,17 +23,7 @@ const Template = () =>{
                             "marginTop": 35}} />
                         </div>
                         <div className="col-md-6 text-left">
-                        {
-                          // <ol className="breadcrumb breadcrumb-2">
-                          //     <li>
-                          //         <a href="index.html">Home</a>
-                          //     </li>
-                          //     <li>
-                          //         <a href="#">Portfolio</a>
-                          //     </li>
-                          //     <li className="active">Parallax</li>
-                          // </ol>
-                        }
+
                         <div className="details">
                           <h3>Hello I'm</h3>
                           <h2>ISAAC NKOY</h2>
@@ -227,8 +217,11 @@ const Template = () =>{
                                 <h6 className="title">Latest Updates</h6>
                                 <hr/>
                                 <div className="twitter-feed">
-                                    <div className="tweets-feed" data-feed-name="mrareweb">
-                                    </div>
+                                {
+                                  // <div className="tweets-feed" data-feed-name="mrareweb">
+                                  // </div>
+                                  
+                                }
                                 </div>
                             </div>
                             {
@@ -240,9 +233,12 @@ const Template = () =>{
                             <div className="widget">
                                 <h6 className="title">Instagram</h6>
                                 <hr/>
-                                <div className="instafeed" data-user-name="mrareweb">
-                                    <ul></ul>
-                                </div>
+                                {
+                                  // <div className="instafeed" data-user-name="mrareweb">
+                                  // </div>
+
+                                }
+
                             </div>
                             {
                               // end of widget-->
