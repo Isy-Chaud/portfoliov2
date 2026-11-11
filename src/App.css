@@ -37,3 +37,13 @@
     transform: rotate(360deg);
   }
 }
+.Skills {
+background-color: darkslategray;
+border-radius: 20%;
+}
+.Skill-progress {
+  background-color: darkgoldenrod;
+  text-decoration: brown;
+  border-radius: 20%;
+  text-align: center;
+}

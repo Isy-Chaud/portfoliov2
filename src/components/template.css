@@ -4,3 +4,10 @@
 .section1{
   height: 300px;
 }
+.Log{
+  align-items:flex-end;
+  border-radius: 50%;
+  box-shadow: burlywood;
+  shape-margin: 20%;
+  
+}

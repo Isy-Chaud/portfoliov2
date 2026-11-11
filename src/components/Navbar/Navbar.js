@@ -1,15 +1,19 @@
 import React from 'react';
 // import '../css/bootstrap.css';
 // import '../css/flexslider.css';
+import Logo from '../../img/logo.png';
+import  './navbar.css';
 
 const Navbar = () =>{
   return(
-    <div className="nav-container bg-dark">
+    <div className="nav-container bg-dark ">
         <a id="top"></a>
-        <nav className="bg-dark">
-            <div className="nav-bar bg-dark" >
-                <div className="module left bg-dark">
-                    <h3 style={{"marginTop": 10}}>ISYCHAUD</h3>
+        <nav className="bg-dark ">
+            <div className="nav-bar bg-dark log Nav" >
+                <div className="module left bg-dark Log">
+                    <img alt="logo image"width={50} height={50}
+                     className="Log" src={Logo}/>
+                    
                 </div>
 
                   <div className="module widget-handle mobile-toggle right visible-sm visible-xs">
