@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.32c0313e.chunk.css",
-    "main.js": "/static/js/main.dd29424d.chunk.js",
-    "main.js.map": "/static/js/main.dd29424d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7fca4a2c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7fca4a2c.js.map",
-    "static/js/2.3c4c0294.chunk.js": "/static/js/2.3c4c0294.chunk.js",
-    "static/js/2.3c4c0294.chunk.js.map": "/static/js/2.3c4c0294.chunk.js.map",
-    "static/js/3.4a37f56f.chunk.js": "/static/js/3.4a37f56f.chunk.js",
-    "static/js/3.4a37f56f.chunk.js.map": "/static/js/3.4a37f56f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.32c0313e.chunk.css.map": "/static/css/main.32c0313e.chunk.css.map",
-    "static/js/2.3c4c0294.chunk.js.LICENSE.txt": "/static/js/2.3c4c0294.chunk.js.LICENSE.txt",
-    "static/media/isy_profile.b0ab545e.jpg": "/static/media/isy_profile.b0ab545e.jpg",
-    "static/media/logo.f5b0aa98.png": "/static/media/logo.f5b0aa98.png"
+    "main.css": "/portfoliov2/static/css/main.32c0313e.chunk.css",
+    "main.js": "/portfoliov2/static/js/main.dd29424d.chunk.js",
+    "main.js.map": "/portfoliov2/static/js/main.dd29424d.chunk.js.map",
+    "runtime-main.js": "/portfoliov2/static/js/runtime-main.8e810658.js",
+    "runtime-main.js.map": "/portfoliov2/static/js/runtime-main.8e810658.js.map",
+    "static/js/2.3c4c0294.chunk.js": "/portfoliov2/static/js/2.3c4c0294.chunk.js",
+    "static/js/2.3c4c0294.chunk.js.map": "/portfoliov2/static/js/2.3c4c0294.chunk.js.map",
+    "static/js/3.4a37f56f.chunk.js": "/portfoliov2/static/js/3.4a37f56f.chunk.js",
+    "static/js/3.4a37f56f.chunk.js.map": "/portfoliov2/static/js/3.4a37f56f.chunk.js.map",
+    "index.html": "/portfoliov2/index.html",
+    "static/css/main.32c0313e.chunk.css.map": "/portfoliov2/static/css/main.32c0313e.chunk.css.map",
+    "static/js/2.3c4c0294.chunk.js.LICENSE.txt": "/portfoliov2/static/js/2.3c4c0294.chunk.js.LICENSE.txt",
+    "static/media/isy_profile.b0ab545e.jpg": "/portfoliov2/static/media/isy_profile.b0ab545e.jpg",
+    "static/media/logo.f5b0aa98.png": "/portfoliov2/static/media/logo.f5b0aa98.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fca4a2c.js",
+    "static/js/runtime-main.8e810658.js",
     "static/js/2.3c4c0294.chunk.js",
     "static/css/main.32c0313e.chunk.css",
     "static/js/main.dd29424d.chunk.js"
